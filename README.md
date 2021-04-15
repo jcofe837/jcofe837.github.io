@@ -1,4 +1,4 @@
-# jcofe837.github.io
+# Jack Cofer Media
 <html>
 <head>
 <style>
