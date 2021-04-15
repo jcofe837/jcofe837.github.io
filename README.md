@@ -31,20 +31,20 @@ h3 {
 </head>    
 <body>
     <div id="content">
-        <h1>Ethan McGee</h1>
+        <h1>"I reject your reality and substitute my own" - Adam Savage</h1>
         <h2>Freshman in Greenville, South Carolina</h2>
         
-         <p>I am a freshman at Bob Jones University studying computer science with a minor in mathematics. I work for the Computer Science department as a lab monitor.</p>
+         <p>I am a freshman at Bob Jones University studying Business Administration. I'm also a member of the University Businesss Association and Investment CLub.</p>
          <p>
-            I enjoy participating in community outreach events, and I am active in my local church: Southside Baptist Church of Gaffney, SC.  I teach Sunday School for the College &amp; Career group and I run the Sound / Video Projection System during services.  I also drive the church bus for weekend activities.
+            I enjoy dirt super late model racing and am actively apart of it by running a of couple dirt late model drivers social media accounts.
          </p> 
          <p>
-            I also enjoy running / hiking as well as a good book
+            I also enjoy sports such as football and basketball.
          </p>
         
-        <h3>EDUCATION</h3>
-        Computer Science<br>
-        Bob Jones University
+        <h3>TWITTER</h3>
+        @JackCofer94<br>
+        @ZMitchellRacing
     </div>
            
 </body>
