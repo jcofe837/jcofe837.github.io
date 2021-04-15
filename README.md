@@ -33,7 +33,8 @@ h3 {
     <div id="content">
         <h1>"I reject your reality and substitute my own" - Adam Savage</h1>
         <h2>Freshman in Greenville, South Carolina</h2>
-        
+        ![image](https://user-images.githubusercontent.com/82198356/114903013-5d65f780-9de4-11eb-9f8b-3699386bbd42.png)
+
          <p>I am a freshman at Bob Jones University studying Business Administration. I'm also a member of the University Businesss Association and Investment CLub.</p>
          <p>
             I enjoy dirt super late model racing and am actively apart of it by running a of couple dirt late model drivers social media accounts.
