@@ -1,13 +1,14 @@
+
 # Jack Cofer Media
 <html>
 <head>
 <style>
 body {
-    background: lightgreen;
+    background: grey;
     font-family: Verdana;
 }  
 #content {
-    background: lightyellow;
+    background: lightred;
     min-width: 200px;
     max-width: 500px;
     padding: 50px;
@@ -31,9 +32,8 @@ h3 {
 </head>    
 <body>
     <div id="content">
-        <h1>"I reject your reality and substitute my own" - Adam Savage</h1>
+        ![IMG_3919](https://user-images.githubusercontent.com/82198356/114904532-f6494280-9de5-11eb-8c32-e6bf6bda18a0.JPEG)
         <h2>Freshman in Greenville, South Carolina</h2>
-        ![image](https://user-images.githubusercontent.com/82198356/114903013-5d65f780-9de4-11eb-9f8b-3699386bbd42.png)
 
          <p>I am a freshman at Bob Jones University studying Business Administration. I'm also a member of the University Businesss Association and Investment CLub.</p>
          <p>
@@ -43,9 +43,12 @@ h3 {
             I also enjoy sports such as football and basketball.
          </p>
         
-        <h3>TWITTER</h3>
-        @JackCofer94<br>
+        <h3>SOCIAL MEDIA</h3>
+        Twitter:<br>
+        @JackCofer94
         @ZMitchellRacing
+        Facebook:
+        Zack Mitchell Motorsports
     </div>
            
 </body>
