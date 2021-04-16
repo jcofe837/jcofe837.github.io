@@ -37,7 +37,7 @@ h3 {
 
          <p>I am a freshman at Bob Jones University studying Business Administration. I'm also a member of the University Businesss Association and Investment Club.</p>
          <p>
-            I enjoy dirt super late model racing and am actively apart of it by running a of couple dirt late model drivers social media accounts.
+            I enjoy dirt super late model racing and am actively involved in it by providing social media services to a couple of dirt late model drivers.
          </p> 
          <p>
             I also enjoy sports such as football and basketball.
